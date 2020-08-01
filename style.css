@@ -1,0 +1,21 @@
+.logo {
+    color: black;
+}
+
+.logo:hover {
+    text-decoration: none;
+    color: darkgray;
+}
+
+.name {
+    margin-top: 2rem;
+    width: 100px;
+}
+
+.flower-inner{
+    transform: translateY(10%);
+}
+
+.heading{
+    padding-top: 20px;
+}
